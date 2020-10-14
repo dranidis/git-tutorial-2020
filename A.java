@@ -1,4 +1,4 @@
 public class A {
-    private int x;
-    private int y;
+    private int nominator;
+    private int denominator;
 }
